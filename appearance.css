@@ -1,0 +1,30 @@
+header {
+    font-family: fantasy;
+    font-size: 60px;
+    justify-content: 20%;
+    color: aqua;
+
+  }
+  
+  .content {
+    display: inline-flex;
+    box-align: center;
+    color: blueviolet;
+    text-transform: capitalize;
+    text-decoration: salmon;
+  }
+  
+  label {
+    font-size: 25px;
+    padding: 5px;
+    font-style: italic;
+  }
+  
+  .completed {
+    opacity: 50%;
+  }
+  
+  .uncompleted {
+    opacity: 100%;
+  }
+  
